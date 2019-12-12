@@ -1,0 +1,19 @@
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side-menu {
+    height: 80vh;
+    width: 24vw;
+    background-color: #1c2127;
+}
+
+.map-container {
+    height: 80vh;
+    width: 75vw;
+    background-color: #313131;
+}
+
+.tool-tray {
+}
