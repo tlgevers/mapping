@@ -8,7 +8,7 @@ const Box = (props) => {
         <Aux>
             <Modal open={props.open} toggle={props.toggle} size="lg">
                 <ModalHeader className="box-top">TOOL</ModalHeader>
-                <ModalBody className="box-bottom">Add a point</ModalBody>
+                <ModalBody className="box-bottom">ADD A POINT</ModalBody>
             </Modal>
         </Aux>
     )

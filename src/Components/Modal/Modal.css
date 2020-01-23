@@ -1,11 +1,17 @@
+h5 {
+    color: white !important;
+}
+
 .box-top {
     color: white;
-    background-color: black;
+    background-color: #1d2023;
+    border: solid 1px white;
 }
 
 .box-bottom {
     color: white;
-    background-color: black;
+    background-color: #1d2023;
+    border: solid 1px white;
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
     height: 32vh;
